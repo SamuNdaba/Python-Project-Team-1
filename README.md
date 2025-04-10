@@ -1,7 +1,5 @@
 # Python-Project-Team-1
 This is for the group python project
-# Python-Project-Team-1
-This is for the group python project
 ## Project Overview
 Retail vegetable prices can vary significantly due to a variety of factors. Here are some aspects that can contribute to these differences:
 - Supply Chain and Transportation Costs: The cost to transport vegetables to different areas can influence prices. Remote or less accessible areas might have higher prices due to higher transportation costs.
